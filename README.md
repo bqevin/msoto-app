@@ -1,2 +1,2 @@
 # msoto-app
-Solving Kenyan buses problem of slowed data collection &amp; presentation problem 
+Solving Kenyan buses problem of slowed data collection &amp; presentation
