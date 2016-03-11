@@ -1,8 +1,24 @@
 <head>
     <title>Log your daily worksheet</title>
+    <style type="text/css">
+    form{
+    	margin: 10px;
+    	width: 90%;
+    }
+    fieldset{    
+    	padding: 15px;
+    	margin-bottom: 20px;
+    }
+    input{
+    	padding: 7px;
+    	margin-bottom: 15px;
+    }
+    </style>
 </head>
 <body>
     <h1>Daily Worksheet</h1>
+    <h4>Registered Vehicles</h4>
     {{> dwTemplate }}
+    <br>
     {{> dwForm }}
 </body>
